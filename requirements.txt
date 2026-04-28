@@ -1,0 +1,12 @@
+# PatentPilot AI — Python 3.14 compatible dependencies
+fastapi>=0.115.0
+uvicorn>=0.30.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.12.0
+numpy
+pydantic>=2.9.0
+httpx>=0.27.0
+python-dotenv>=1.0.0
+streamlit>=1.38.0
+fpdf2>=2.8.0
+python-dotenv
