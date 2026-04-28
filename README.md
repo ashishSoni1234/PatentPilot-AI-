@@ -1,3 +1,13 @@
+---
+title: PatentPilot AI
+emoji: 🚀
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 <div align="center">
   <h1>🚀 PatentPilot AI</h1>
   <p><strong>Agentic AI Patent Analysis — Prior Art Search • Novelty Analysis • Infringement Detection • FTO Assessment</strong></p>
